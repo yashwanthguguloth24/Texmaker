@@ -36,13 +36,15 @@ clone "repository link"
 2.Adding 
 
 ```
-git add .
+git add .                 
+```                                                 
+
+3. Commit 
 ```
-2. Commit 
+git commit -m "first commit"                 
 ```
-git commit -m "first commit"
-```
-3.Finally push the changes 
+
+4.Finally push the changes 
 ```
 git push
 ```
