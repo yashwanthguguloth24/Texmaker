@@ -1,4 +1,4 @@
-Assuming Texmaker is already installed. This repository has the commands to compile a tex file using taxmaker in terminal.
+Assuming Texmaker is already installed. This repository has the commands to compile a tex file using texmaker in terminal.
 
 First create a .tex file . Then open the terminal with the directory of .tex file 
 
