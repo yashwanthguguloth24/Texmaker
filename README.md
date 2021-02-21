@@ -31,7 +31,7 @@ We can updates the changes in the github repository using the following commands
 1.Clonning the repository 
 
 ```
-clone "repository link"
+git clone "repository link"
 ```
 2.Adding 
 
